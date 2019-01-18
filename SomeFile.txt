@@ -1,0 +1,3 @@
+Cloning into '/home/iain/RetroPie-Setup/tmp/MAME'...
+Checking out files:  97% (10817/11052)   Checking out files:  98% (10831/11052)   Checking out files:  99% (10942/11052)   Checking out files: 100% (11052/11052)   Checking out files: 100% (11052/11052), done.
+cp: cannot create directory '..//home/iain/.config/retroarch': No such file or directory
