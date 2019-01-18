@@ -363,8 +363,8 @@ mame-libretro)
     sed -i '3i input_overlay_opacity = "1.000000"' $configdir/mame-libretro/retroarch.cfg
     mv "$raconfigdir/config/disable_MAME 2003" "$raconfigdir/config/MAME 2003"
     mv "$raconfigdir/config/disable_MAME 2010" "$raconfigdir/config/MAME 2010"
-    ln -s "$raconfigdir/.config/MAME 2003" "$raconfigdir/config/MAME 2003 (0.78)"
-    ln -s "$raconfigdir/.config/MAME 2003" "$raconfigdir/config/MAME 2003-Plus"
+    ln -s "$raconfigdir/config/MAME 2003" "$raconfigdir/config/MAME 2003 (0.78)"
+    ln -s "$raconfigdir/config/MAME 2003" "$raconfigdir/config/MAME 2003-Plus"
 
   else
     cp $configdir/mame-libretro/retroarch.cfg $configdir/mame-libretro/retroarch.cfg.bkp
@@ -372,8 +372,8 @@ mame-libretro)
     sed -i '3i input_overlay_opacity = "1.000000"' $configdir/mame-libretro/retroarch.cfg
     mv "$raconfigdir/config/disable_MAME 2003" "$raconfigdir/config/MAME 2003"
     mv "$raconfigdir/config/disable_MAME 2010" "$raconfigdir/config/MAME 2010"
-    ln -s "$raconfigdir/.config/MAME 2003" "$raconfigdir/config/MAME 2003 (0.78)"
-    ln -s "$raconfigdir/.config/MAME 2003" "$raconfigdir/config/MAME 2003-Plus"
+    ln -s "$raconfigdir/config/MAME 2003" "$raconfigdir/config/MAME 2003 (0.78)"
+    ln -s "$raconfigdir/config/MAME 2003" "$raconfigdir/config/MAME 2003-Plus"
 
   fi
   ;;
