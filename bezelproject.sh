@@ -177,7 +177,7 @@ clear
             --menu "Which system would you like to disable bezels for?" 25 75 20 \
             1 "GCEVectrex" \
             2 "SuperGrafx" \
-            3 "Sega32X" \
+            3 "sega32x" \
             4 "SG-1000" \
             5 "Arcade" \
             6 "Final Burn Alpha" \
@@ -229,7 +229,7 @@ clear
             --menu "Which system would you like to enable bezels for?" 25 75 20 \
             1 "GCEVectrex" \
             2 "SuperGrafx" \
-            3 "Sega32X" \
+            3 "sega32x" \
             4 "SG-1000" \
             5 "Arcade" \
             6 "Final Burn Alpha" \
